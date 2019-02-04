@@ -1,5 +1,5 @@
 {
-  "name": "quill-autoformat",
+  "name": "quill-autoformat-ilkkah",
   "version": "0.1.1",
   "description": "Quill Extension for transforming text and format as you type",
   "main": "dist/quill-autoformat.js",
